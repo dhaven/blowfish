@@ -53,6 +53,20 @@ module.exports = {
         800: "rgba(var(--color-secondary-800), <alpha-value>)",
         900: "rgba(var(--color-secondary-900), <alpha-value>)",
       },
+      rose: {
+        100: "rgba(255, 228, 230, <alpha-value>)",
+        400: "rgba(251, 113, 133, <alpha-value>)",
+        600: "rgba(225, 29, 72, <alpha-value>)",
+        700: "rgba(190, 18, 60, <alpha-value>)",
+        900: "rgba(136, 19, 55, <alpha-value>)"
+      },
+      blue: {
+        100: "rgba(219, 234, 254, <alpha-value>)",
+        400: "rgba(96, 165, 250, <alpha-value>)",
+        600: "rgba(37, 99, 235, <alpha-value>)",
+        700: "rgba(29, 78, 216, <alpha-value>)",
+        900: "rgba(30, 58, 138, <alpha-value>)"
+      }
     },
     extend: {
       typography: ({ theme }) => ({
