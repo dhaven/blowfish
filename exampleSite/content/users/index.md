@@ -61,9 +61,12 @@ Real websites that are built with Blowfish.
 | [blog.rotrixx.eu](https://blog.rotrixx.eu)                            | Personal site                |
 | [hexwiki.cz](https://hexwiki.cz/)                                     | Personal site                |
 | [alejandro-ao.com](https://alejandro-ao.com/)                         | Personal site                |
-
-
-
+| [adir1.com](https://adir1.com/)                                       | Personal site                |
+| [niklas-hartmann-dev.de](https://niklas-hartmann-dev.de/)             | Personal site                |
+| [blog.muffn.io](https://blog.muffn.io/)                               | Personal site                |
+| [voicedrew11.github.io](https://voicedrew11.github.io/)               | Personal site                |
+| [nick.bouwhuis.net](https://nick.bouwhuis.net)                        | Personal site                |
+| [vividscc.com](https://vividscc.com/)                                 | Business site                |
 
 {{< alert >}}
 
