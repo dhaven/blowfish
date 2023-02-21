@@ -1,6 +1,6 @@
 {{ if eq .Name "Hire me!" }}
 <a href="{{ .URL }}" {{ if or (strings.HasPrefix .URL "http:" ) (strings.HasPrefix .URL "https:" ) }} target="_blank" {{
-    end }} class="flex items-center px-2 py-1 mx-2 rounded-full bg-primary-100 dark:bg-primary-700">
+    end }} class="flex items-center px-2 py-1 mx-2 rounded-lg drop-shadow-md bg-primary-100 dark:bg-primary-700 dark:hover:bg-primary-900 hover:bg-primary-300">
     {{ if .Pre }}
     <span {{ if and .Pre .Name}} class="mr-1" {{ end }}>
         {{ partial "icon.html" .Pre }}
